@@ -1,28 +1,29 @@
 {
-  "title":"Write the name of your script here",
-  "description":"Write a short description of what your script does here",
+  "title":"Elliptical Dome",
+  "description":"This Grasshopper script generates a panelized elliptical dome with a solar chimney",
   "coverImage":"./_PW/cover.png",
   "authors":[{
-    "name":"Kyle Example",
-    "email":"kyle.example@example.com",
-    "role":"developer"
+    "name":"Santiago Diaz",
+    "email":"Santiago.Diaz@perkinswill.com",
+    "role":"designer"
   }],
   "offices":[
-    "NewYork",
-    "SanFrancisco"
+    "Vancouver",
+    "Toronto"
   ],
   "projects":[{
-    "name":"Example Project",
-    "number":"123456.000",
-	"marketSector":"CCC"
+    "name":"Confidential Multi-Modal Transportation Terminal with Retail",
+    "number":"441320.000",
+	"marketSector":"Transit"
   }],
   "dependencies":[{
-    "author":"Autodesk",
-    "name":"Revit",
-    "version":"2016"
+    "author":"McNeel",
+    "name":"Grasshopper",
+    "version":"0.9.0076"
   }],
   "tags":[
-    "boilerplate",
-    "example"
+    "dome",
+    "diagrid",
+    "panelization"
   ]
 }
